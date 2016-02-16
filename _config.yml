@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: 刘宇波
+SEOTitle: 刘宇波
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: ""
+description: "记录我的青春"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,9 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     liuyubo2012
+zhihu_username:     liuyubo2023
+github_username:    liuyubo2023
 #twitter_username:  huxpro
 facebook_username:  huxpro
 

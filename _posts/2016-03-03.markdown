@@ -1,12 +1,12 @@
 ---
-layout:		post
-title:		信命不认命
-subtitle:	世界来一次不能太平凡
-date:		2016-03-03 01:49:00
-author:		"Yubo Liu"
-header-img:	"img/post-bg-20160303.jpg"
+layout:     post
+title:      "信命不认命"
+subtitle:   "世界来一次不能太平凡"
+date:       2016-03-03 12:00:00
+author:     "YuboLiu"
+header-img: "img/post-bg-20160303.jpg"
 tags:
-	- 生活
+    - 生活
 ---
 
 ### 母亲

@@ -4,7 +4,7 @@ title:      "选择"
 subtitle:   " never let lose to your heart"
 date:       2016-03-10 01:00:00
 author:     "Yubo Liu"
-header-img: "img/post-bg-20150310.jpg"
+header-img: "img/post-bg-20160310.jpg"
 tags:
     - 思考
 ---

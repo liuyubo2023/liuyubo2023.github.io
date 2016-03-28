@@ -78,16 +78,16 @@ friends: [
         title: "Yubo blog",
         href: "http://liuyubo2023.github.io"
     },{
-        title: "Foo",
+        title: "Dota",
         href: "#"
     },{
-        title: "Bar",
+        title: "篮球",
         href: "#"
     },{
-        title: "Example Friends",
+        title: "音乐",
         href: "#"
     },{
-        title: "It helps SEO",
+        title: "Car",
         href: "#"
     }
 ]

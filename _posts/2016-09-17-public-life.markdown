@@ -6,7 +6,7 @@ date:       2016-09-17 12:00:00
 author:     "YuboLiu"
 header-img: "img/post-bg-20160917.jpg"
 tags:
-    - 生活
+    - 2017
 ---
 
 ### 公益

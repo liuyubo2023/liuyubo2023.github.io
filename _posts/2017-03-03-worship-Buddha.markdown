@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "春水初生，春林初盛，春风十里不如你。"
-subtitle:   "转载"
+subtitle:   "游记"
 date:       2017-03-03 12:00:00
-author:     "易安居士欣儿"
+author:     "YuboLiu"
 header-img: "img/post-bg-2017-03-03.jpg"
 tags:
     - 转载
@@ -146,3 +146,5 @@ tags:
 
 加油，入世是为了更好的出世。
 
+转自 [春水初生，春林初盛，春风十里不如你。](https://www.meipian.cn/e8oqg7d)<br/>
+作者 [易安居士欣儿](https://www.meipian.cn/c/3588539)
